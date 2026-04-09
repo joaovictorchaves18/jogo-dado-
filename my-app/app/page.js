@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import JogoDados from "./componentes/Jogo-dado-";
+import JogoDados from "./componentes/jogoDados";
 
 export default function Home() {
   const [rodada, setRodada] = useState(1);

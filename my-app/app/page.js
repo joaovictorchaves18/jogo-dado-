@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from "react";
 import JogoDados from "./componentes/JogoDados";
 
 export default function Home() {

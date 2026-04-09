@@ -5,9 +5,9 @@ import JogoDados from "./componentes/JogoDados";
 
 export default function Home() {
   return <JogoDados />;
-}
 
-export default function Home() {
+
+
   const [rodada, setRodada] = useState(1);
   const [jogadorAtual, setJogadorAtual] = useState(1);
 
